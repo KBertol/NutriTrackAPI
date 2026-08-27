@@ -104,7 +104,7 @@ String senha = "postgres";
 String url = "jdbc:postgresql://localhost:5432/bulking_db";
 ```
 
-### 3. Abrir e rodar no NetBeans
+### 3a. Abrir e rodar no NetBeans
 
 1. Abra o NetBeans e use **File > Open Project**, selecionando a pasta
    `NutriTrackAPI`.
