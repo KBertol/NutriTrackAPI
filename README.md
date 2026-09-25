@@ -5,11 +5,6 @@ Bulking/Macros), desenvolvido em **Java puro + JDBC** sobre um banco de
 dados relacional **PostgreSQL**, como projeto da disciplina de Banco de
 Dados II.
 
-> Projeto construído a partir do exemplo `ExemploUsoAPI` fornecido em aula,
-> adaptado para um novo domínio (nutrição/dieta), seguindo o mesmo padrão
-> de camadas **Bean / Model / Controller** e acesso ao banco via JDBC puro
-> (sem qualquer framework de abstração, como JPA/Hibernate).
-
 ## Domínio e Modelagem
 
 O sistema permite que usuários registrem alimentos, montem refeições ao
